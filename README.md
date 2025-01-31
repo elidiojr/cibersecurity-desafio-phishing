@@ -21,5 +21,5 @@
 
 ![screenshot (2)](https://github.com/user-attachments/assets/5dcb3318-75e7-48aa-8707-99824a8e0b3a)
 
-![Alt text](./screenshot (1).png "Optional title")
+
 
